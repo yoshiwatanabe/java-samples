@@ -1,0 +1,2 @@
+level-01 client and library class, declared in the same 'unspecified' package
+level-02 client in a package uses a library class, declared in a different package
