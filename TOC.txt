@@ -1,2 +1,5 @@
 level-01 client and library class, declared in the same 'unspecified' package
 level-02 client in a package uses a library class, declared in a different package
+
+
+level-09 a web application as a war file, uses a jar file inside of the war file
