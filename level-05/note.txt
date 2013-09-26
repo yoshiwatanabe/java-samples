@@ -38,8 +38,6 @@ The error is saying that if we want to specify a jar file using -jar switch, we 
 
 
 
-
-
 Next, we will make sure that Main-Class gets specified
 
 Steps
